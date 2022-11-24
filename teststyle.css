@@ -23,16 +23,6 @@
      float: none;
      text-align: center;
  }
- .header_nav-list-item-icons{
-    display: inline-block;
-    margin: 0 5px;
-    float: none;
-    text-align: center;
-    text-decoration: none;!important
-    font-size: 16px;
-    font-weight: 500;
-    color: #fff !important;
- }
  .header_nav-list-item > a {
      padding: 8px 15px;
      color: #fff;
